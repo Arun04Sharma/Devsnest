@@ -1,0 +1,1 @@
+I have Successfully Setup the Redis and Postgres in the Windows 10 and performed several queries on it.
